@@ -1,4 +1,5 @@
 Websites created in Web-Programming class containing an about me site with my resume, a prototype website of a sales page, and an awareness page on cyberbullying.
+
 Michelle Quinteros
 
 Project #1 
